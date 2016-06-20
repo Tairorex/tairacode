@@ -1,0 +1,6 @@
+c:\users\junustai\documents\visual studio 2015\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe.config
+c:\users\junustai\documents\visual studio 2015\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.exe
+c:\users\junustai\documents\visual studio 2015\Projects\FirstApp\FirstApp\bin\Debug\FirstApp.pdb
+c:\users\junustai\documents\visual studio 2015\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.csprojResolveAssemblyReference.cache
+c:\users\junustai\documents\visual studio 2015\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.exe
+c:\users\junustai\documents\visual studio 2015\Projects\FirstApp\FirstApp\obj\Debug\FirstApp.pdb
